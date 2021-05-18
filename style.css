@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+table {
+    background-color: #3c3b6e;
+    color:white;
+}
+#sidestripes{
+    background-color: blue;
+}
+.red {
+    background-color: #b22234;
+    height: 20px;
+    border: 2px solid #b22234;
+}
+.white {
+    background-color: white;
+    height: 20px;
+}
